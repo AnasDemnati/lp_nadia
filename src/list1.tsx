@@ -12,7 +12,7 @@ import Cartepass from './cartepass';
 
 const pages = [
   {title:'Général' ,icon: <InboxIcon /> },
-  {title:'Carte Pass' ,icon: <InboxIcon /> },
+  {title:'Carte ' ,icon: <InboxIcon /> },
   {title:'Carte Flex' ,icon: <InboxIcon /> },
   {title:'Carte Budget' ,icon: <InboxIcon /> },
   {title:'Carte Hybrid' ,icon: <InboxIcon /> },];
